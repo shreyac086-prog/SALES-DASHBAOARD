@@ -58,7 +58,7 @@ SQL Snippets:
 [SQL example 1](https://github.com/shreyac086-prog/SALES-DASHBAOARD/blob/main/image/SQL%201.jpg)
 
 
-[SQL example 2](https://github.com/user-attachments/assets/88ef4ee2-df02-4bde-bc78-bd6db4a3431a)
+[SQL example 2](https://raw.githubusercontent.com/shreyac086-prog/SALES-DASHBAOARD/refs/heads/main/image/SQL2.jpg)
 
 
 
@@ -73,7 +73,7 @@ Ensured the model supported drill-downs, bookmarks, and navigation
 
 The dashboard includes 20+ measures powering KPIs, YoY comparisons, dynamic ranges, and indicators.
 
-![kpi ](https://github.com/user-attachments/assets/9fd4eb4b-d433-4c5f-be4c-90b8bc709618)
+[kpi image ](https://raw.githubusercontent.com/shreyac086-prog/SALES-DASHBAOARD/refs/heads/main/image/kpi%20.jpg)
 
 
 ⚙️ Key DAX Examples:
@@ -115,7 +115,7 @@ SWITCH(
 🔹 Top N Selector
 
 
-![top n calculator](https://github.com/user-attachments/assets/ac002e5e-9d49-4a4a-935d-eb51b1b1ee92)
+![top n calculator](https://raw.githubusercontent.com/shreyac086-prog/SALES-DASHBAOARD/refs/heads/main/image/top%20n%20calculator.jpg)
 
 
 Allows users to view Top/Bottom Customers based on a dynamic numeric input.
@@ -136,7 +136,7 @@ RETURN IF(IsTop || IsBottom, 1, 0)
 
 
 
-![filter panel ](https://github.com/user-attachments/assets/d170386b-eb51-41a6-b682-19ba52a1c8bc)
+![filter panel ](https://raw.githubusercontent.com/shreyac086-prog/SALES-DASHBAOARD/refs/heads/main/image/filter%20panel%20.jpg)
 
 
 Buttons for:
@@ -184,7 +184,7 @@ Inventory & customer feedback visuals
 
 Background example:
 
-<img width="1075" height="890" alt="bg" src="https://github.com/user-attachments/assets/b1078966-1ae9-4f98-965f-393d5e285443" />
+[background that i created](https://raw.githubusercontent.com/shreyac086-prog/SALES-DASHBAOARD/refs/heads/main/image/bg.png)
 
 
 
