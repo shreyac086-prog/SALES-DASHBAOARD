@@ -84,12 +84,14 @@ cost 3 month =
 CALCULATE([total cost],
     DATESINPERIOD(calender[cal_date], MAX(calender[cal_date]), -3, MONTH))
 
+
 3-Month Cost Last Year
 cost 3 month ly =
 CALCULATE([total cost],
     SAMEPERIODLASTYEAR(
         DATESINPERIOD(calender[cal_date], MAX(calender[cal_date]), -3, MONTH)
     ))
+
 
 Indicator Symbol
 COST 3 indicator =
@@ -99,6 +101,7 @@ SWITCH(
     [cost 3 %] < 0, "▼ " & FORMAT([cost 3 %], "0%"),
     "▬ " & FORMAT([cost 3 %], "0%")
 )
+
 
 Indicator Color
 cost 3 Indicator Color =
@@ -115,7 +118,7 @@ SWITCH(
 🔹 Top N Selector
 
 
-![top n calculator](https://raw.githubusercontent.com/shreyac086-prog/SALES-DASHBAOARD/refs/heads/main/image/top%20n%20calculator.jpg)
+[top n calculator](https://raw.githubusercontent.com/shreyac086-prog/SALES-DASHBAOARD/refs/heads/main/image/top%20n%20calculator.jpg)
 
 
 Allows users to view Top/Bottom Customers based on a dynamic numeric input.
@@ -136,7 +139,7 @@ RETURN IF(IsTop || IsBottom, 1, 0)
 
 
 
-![filter panel ](https://raw.githubusercontent.com/shreyac086-prog/SALES-DASHBAOARD/refs/heads/main/image/filter%20panel%20.jpg)
+[filter panel ](https://raw.githubusercontent.com/shreyac086-prog/SALES-DASHBAOARD/refs/heads/main/image/filter%20panel%20.jpg)
 
 
 Buttons for:
