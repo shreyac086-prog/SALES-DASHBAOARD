@@ -22,7 +22,8 @@ The goal is to support data-driven decision-making through a clean, modern, and 
 
 Files Included
 
-SALES DASHBOARD.pbix — Power BI Dashboard
+[SALES DASHBOARD.pbix — Power BI Dashboard](https://github.com/shreyac086-prog/SALES-DASHBAOARD/blob/main/SALES%20DASHBOARED.pbix),
+
 README.md — Documentation
 
 ## How to Use
