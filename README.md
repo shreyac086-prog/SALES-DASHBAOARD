@@ -55,10 +55,10 @@ Ensured analysis-ready, high-quality data
 
 SQL Snippets:
 
-![SQL 1](https://github.com/user-attachments/assets/a7e5ef87-3f22-4ecb-b098-6d6d102a6701)
+[SQL example 1](https://github.com/shreyac086-prog/SALES-DASHBAOARD/blob/main/image/SQL%201.jpg)
 
 
-![SQL2](https://github.com/user-attachments/assets/88ef4ee2-df02-4bde-bc78-bd6db4a3431a)
+[SQL example 2](https://github.com/user-attachments/assets/88ef4ee2-df02-4bde-bc78-bd6db4a3431a)
 
 
 
