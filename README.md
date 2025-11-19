@@ -47,11 +47,12 @@ Customer ratings
 
 SQL was used to clean, standardize, and merge multiple tables before loading into Power BI.
 
-Key SQL tasks performed:
+SQL tasks performed:
 Created a Calendar table
-Joined multiple fact & dimension tables
+merged multiple  tables using joins 
 Removed duplicates
-Standardized formats
+sorting and filtering 
+removed null values, blank cells  
 Ensured analysis-ready, high-quality data
 
 SQL Snippets:
