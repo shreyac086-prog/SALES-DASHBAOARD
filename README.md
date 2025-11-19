@@ -1,6 +1,6 @@
-📊 Sales Analytics Dashboard — Excel + SQL + Power BI
+ Sales Analytics Dashboard — Excel + SQL + Power BI
 
-##📁 Project Overview
+## Project Overview
 
 This project presents an end-to-end Sales Analytics Dashboard built using Excel, SQL, and Power BI.
 The dashboard provides a comprehensive and interactive view of key business metrics, including:
@@ -16,10 +16,8 @@ Inventory Status
 
 The goal is to support data-driven decision-making through a clean, modern, and dynamic reporting system.
 
-##🖼️ Dashboard Preview 
-
-
-![SALES DB](https://github.com/user-attachments/assets/94adf1d8-d8bd-4a10-a3c4-5462079394ed)
+## Dashboard Preview 
+[click here to view dashboard image](https://raw.githubusercontent.com/shreyac086-prog/SALES-DASHBAOARD/refs/heads/main/image/SALES%20DB.jpg)
 
 
 Files Included
@@ -52,7 +50,7 @@ Created a Calendar table
 merged multiple  tables using joins 
 Removed duplicates
 sorting and filtering 
-removed null values, blank cells  
+removed null values, blank spaces etc
 Ensured analysis-ready, high-quality data
 
 SQL Snippets:
