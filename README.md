@@ -5,14 +5,14 @@
 This project presents an end-to-end Sales Analytics Dashboard built using Excel, SQL, and Power BI.
 The dashboard provides a comprehensive and interactive view of key business metrics, including:
 
-Total Sales
-Total Cost
-Profit
-ROI
-Units Sold
-Category, Region & Channel Performance
-Customer Ratings
-Inventory Status
+Total Sales,
+Total Cost,
+Profit,
+ROI,
+Units Sold,
+Category, Region & Channel Performance,
+Customer Ratings,
+Inventory Status.
 
 The goal is to support data-driven decision-making through a clean, modern, and dynamic reporting system.
 
@@ -35,27 +35,27 @@ Explore KPIs, trends, slicers, and interactive buttons
 
 The raw dataset (Excel) included:
 
-Product details
-Sales transactions
-Regions & channels
-Inventory
-Customer ratings
+Product details,
+Sales transactions,
+Regions & channels,
+Inventory,
+Customer ratings.
 
 ## Data Cleaning & SQL Transformation
 
 SQL was used to clean, standardize, and merge multiple tables before loading into Power BI.
 
 SQL tasks performed:
-Created a Calendar table
-merged multiple  tables using joins 
-Removed duplicates
-sorting and filtering 
-removed null values, blank spaces etc
+Created a Calendar table,
+merged multiple  tables using joins, 
+Removed duplicates,
+sorting and filtering ,
+removed null values, blank spaces etc.
 Ensured analysis-ready, high-quality data
 
 SQL Snippets:
 
-[SQL example 1](https://github.com/shreyac086-prog/SALES-DASHBAOARD/blob/main/image/SQL%201.jpg)
+[SQL example 1](https://raw.githubusercontent.com/shreyac086-prog/SALES-DASHBAOARD/refs/heads/main/image/SQL%201.jpg)
 
 
 [SQL example 2](https://raw.githubusercontent.com/shreyac086-prog/SALES-DASHBAOARD/refs/heads/main/image/SQL2.jpg)
@@ -65,9 +65,9 @@ SQL Snippets:
 ##  Data Modeling (Power BI)
 
 After cleaning in SQL, the refined dataset was imported into Power BI.
-A single main fact table was prepared
-Relationships established for seamless filtering
-Ensured the model supported drill-downs, bookmarks, and navigation
+A single main fact table was prepared,
+Relationships established for seamless filtering,
+Ensured the model supported drill-downs, bookmarks, and navigation.
 
 ##  DAX Calculations
 
@@ -140,12 +140,12 @@ RETURN IF(IsTop || IsBottom, 1, 0)
 
 
 Buttons for:
-3M
-6M
-9M
-YTD
-This Month
-This Year
+3M,
+6M,
+9M,
+YTD,
+This Month,
+This Year.
 
 DAX:
 Total Sales Selected =
@@ -174,13 +174,13 @@ METRIX PARAMETER = {
 
 ##🎨 UI/UX & Dashboard Design
 
-Clean and modern theme
-Custom PowerPoint-designed background
-Button-based navigation
-Pop-up filter panel
-Donut charts, bar charts, KPI cards
-Trend comparisons with YoY & MoM highlights
-Inventory & customer feedback visuals
+Clean and modern theme,
+Custom PowerPoint-designed background,
+Button-based navigation,
+Pop-up filter panel,
+Donut charts, bar charts, KPI cards,
+Trend comparisons with YoY & MoM highlights,
+Inventory & customer feedback visuals.
 
 Background example:
 
